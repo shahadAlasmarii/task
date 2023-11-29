@@ -1,94 +1,94 @@
-# عنوان المشروع: تطبيق أخبار
+# Project title: News application
 
 
-# الوصف
-
-
-
-طبيق الأخبار يوفر للمستخدمين مصادر متنوعة للأخبار من مختلف المجالات مثل السياسة، التكنولوجيا، الثقافة، والرياضة. يتيح لهم متابعة آخر التطورات بسهولة وسرعة عبر واجهة سهلة الاستخدام، مع إمكانية تخصيص اهتماماتهم .
+# the description
 
 
 
-# متطلبات
-
-اندرويد استديو
-
-API من (https://gnews.io)[https://gnews.io/)
+The news application provides users with various sources of news from various fields such as politics, technology, culture, and sports. It allows them to follow the latest developments easily and quickly through an easy-to-use interface, with the ability to customize their interests.
 
 
 
-# الوظائف
+# requirements
 
+Android studio
 
-. تنوع المحتوى: يوفر مجموعة واسعة من الأخبار من مختلف المجالات مثل السياسة، الاقتصاد، التكنولوجيا، الثقافة، والرياضة.
-
-2. تخصيص الاهتمامات: إمكانية للمستخدمين لتحديد مواضيعهم المفضلة وتلقي أخبار ذات صلة.
-
-3. واجهة مستخدم سهلة: تصميم واجهة مستخدم بسيطة وسهلة الاستخدام لتمكين التنقل الفعّال وقراءة الأخبار بسلاسة.
-
-4. مشاركة الأخبار: إمكانية مشاركة الأخبار عبر وسائل التواصل الاجتماعي أو البريد الإلكتروني.
-
-5. حفظ الأخبار لاحقًا: خاصية تسمح للمستخدمين بحفظ الأخبار التي تهمهم للرجوع إليها في وقت لاحق.
+API from (https://gnews.io)[https://gnews.io/]
 
 
 
-# تعليمات التثبيت
-
-لتثبيت تطبيق الاخبار مكتوب بلغة Java من GitHub، يجب أن تتبع الخطوات التالية:
-
-1. نسخ الرابط (URL) من مستودع GitHub:
-   - انتقل إلى صفحة GitHub لمشروع التطبيق الذي تريد تثبيته.
-   - انقر على زر "Code" وانسخ رابط URL المتاح.
-
-2. استخدام Android Studio:
-   - افتح Android Studio واختر "Check out project from Version Control" ثم اختر "Git".
-   - الصق رابط GitHub الذي نسخته في الخطوة الأولى.
-
-3. تكوين الإعدادات:
-   - اختر مجلد الوجهة لحفظ المشروع على جهاز الكمبيوتر الخاص بك.
-
-4. انتظار عملية التحميل:
-   - انتظر حتى يقوم Android Studio بتحميل المشروع من GitHub.
-
-5. فتح المشروع:
-   - بعد الانتهاء من التحميل، انقر على "Open" لفتح المشروع في Android Studio.
-
-6. تكوين إعدادات Gradle:
-   - قد تحتاج إلى التحقق من إعدادات Gradle وتحميل الاعتماديات الضرورية.
-
-7. بناء وتشغيل التطبيق:
-   - اختر "Build" من القائمة وثم "Make Project" لبناء التطبيق.
-   - بعد الانتهاء، اختر "Run" لتشغيل التطبيق على جهاز المحاكاة أو جهاز Android الفعلي.
-
-تأكد من قراءة ملف README.md في مستودع GitHub لأية تعليمات إضافية  قد تحتاج أيضًا إلى تثبيت الأدوات والمكتبات المطلوبة .
-
-# دليل الاستخدام
-
- تحديد اهتماماتك:
-   - إذا كان التطبيق يقدم خيارات لتحديد اهتماماتك، استخدم هذه الميزة لتلقي الأخبار التي تناسب اهتماماتك.
-
-3. تصفح الفئات:
-   - استكشف الأقسام المختلفة في التطبيق، مثل السياسة، التكنولوجيا، الرياضة، والثقافة، للعثور على أخبار تلبي احتياجاتك.
-
-4. قراءة الأخبار:
-   - اختر الخبر لقراءته، واستمتع بتصفح المحتوى المقدم.
-
-5. مشاركة الأخبار:
-   - قم بمشاركة الأخبار التي تجدها مثيرة عبر وسائل التواصل الاجتماعي أو البريد الإلكتروني.
-
-6. قراءة المراجعات والتقييمات:
-   - إذا كان هناك قسم للمراجعات أو التقييمات في المتجر، قم بقراءة تجارب المستخدمين الآخرين للحصول على فهم أفضل حول كيفية استخدام التطبيق
+# Jobs
 
 
-# المساهمون
+. Diversity of content: Provides a wide range of news from various fields such as politics, economics, technology, culture, and sports.
 
-      Division 119Atiyaf Abdo :444811859
-      Division 120amani mohammed : 444816564
-      Division 120shahad fahad Alasmari  : 444806169
-      Division 120Shahad Jaber : 444807374
-      Division 120Yara Ali : 444810400
-      Division 120Fatima Ahmed : 444808207
+2. Personalization of interests: Possibility for users to select their favorite topics and receive relevant news.
 
-# معلومات الاتصال
+3. Easy User Interface: Design a simple and easy-to-use user interface to enable efficient navigation and smooth news reading.
 
-رقم الهاتف : +966502313902
+4. Share news: The ability to share news via social media or email.
+
+5. Save news for later: A feature that allows users to save news that interests them for later reference.
+
+
+
+# Installation instructions
+
+To install a news application written in Java from GitHub, you must follow these steps:
+
+1. Copy the link (URL) from the GitHub repository:
+    - Go to the GitHub page of the app project you want to install.
+    - Click on “Code” button and copy the available URL link.
+
+2. Using Android Studio:
+    - Open Android Studio and choose “Check out project from Version Control” then choose “Git”.
+    - Paste the GitHub link you copied in the first step.
+
+3. Configure settings:
+    - Choose a destination folder to save the project on your computer.
+
+4. Waiting for the download process:
+    - Wait for Android Studio to load the project from GitHub.
+
+5. Open the project:
+    - After completing the download, click “Open” to open the project in Android Studio.
+
+6. Configure Gradle settings:
+    - You may need to check your Gradle settings and load the necessary dependencies.
+
+7. Build and run the application:
+    - Choose “Build” from the menu and then “Make Project” to build the application.
+    - After completion, choose “Run” to run the app on the simulator or the actual Android device.
+
+Be sure to read the README.md file in the GitHub repository for any additional instructions you may also need to install the required tools and libraries.
+
+# User's Manual
+
+  Determine your interests:
+    - If the application offers options to select your interests, use this feature to receive news that suits your interests.
+
+3. Browse categories:
+    - Explore the different sections in the app, such as politics, technology, sports, and culture, to find news that meets your needs.
+
+4. Read the news:
+    - Choose the news to read, and enjoy browsing the content provided.
+
+5. Share news:
+    - Share news you find interesting via social media or email.
+
+6. Read reviews and ratings:
+    - If there is a reviews or ratings section in the store, read other users' experiences to get a better understanding of how to use the app
+
+
+#Contributors
+
+       Division 119Atiyaf Abdo: 444811859
+       Division 120 amani mohammed: 444816564
+       Division 120: Shahad Fahad Alasmari: 444806169
+       Division 120Shahad Jaber: 444807374
+       Division 120Yara Ali: 444810400
+       Division 120Fatima Ahmed: 444808207
+
+# contact information
+
+Phone number: +966502313902
